@@ -13,8 +13,8 @@ Built with **React**, **Node.js**, **Express**, and **MongoDB**
 ## 👨‍💻 Developer
 
 **Prateek Dwivedi**  
-Final Year Computer Science Engineering Student  
-📍 Katni, India
+Software Developer
+📍 Indore, India
 
 ## 📋 Project Overview
 
@@ -186,7 +186,7 @@ MIT License - Open source and free to use.
 
 **Email**: pdwivedi0120@gmail.com  
 **GitHub**: [@prateekdz](https://github.com/prateekdz)  
-**Location**: Raipur, India
+**Location**: Indore, India
 
 ---
 
