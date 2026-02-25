@@ -14,6 +14,7 @@ Built with **React**, **Node.js**, **Express**, and **MongoDB**
 
 **Prateek Dwivedi**  
 Software Developer
+<br>
 📍 Indore, India
 
 ## 📋 Project Overview
