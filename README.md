@@ -10,13 +10,6 @@ Built with **React**, **Node.js**, **Express**, and **MongoDB**
 
 ---
 
-## 👨‍💻 Developer
-
-**Prateek Dwivedi**  
-Software Developer
-<br>
-📍 Indore, India
-
 ## 📋 Project Overview
 
 LinkedIn Clone is a feature-rich professional networking platform that allows users to create profiles, share posts, connect with other professionals, and engage through likes and comments. Built with modern technologies and best practices.
