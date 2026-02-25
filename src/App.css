@@ -1,0 +1,14 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #f3f2ef;
+}
+
+.app__body {
+  width: 100%;
+  max-width: 1200px;
+  margin: 35px 20px;
+  display: flex;
+}

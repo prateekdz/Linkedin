@@ -1,0 +1,43 @@
+.feed {
+  flex: 0.5;
+  margin: 0 20px;
+}
+
+/* Input Container: Write a post */
+.feed__inputContainer {
+  margin-bottom: 20px;
+  padding: 10px 10px 20px;
+  border-radius: 10px;
+  background: white;
+}
+
+.feed__input {
+  padding: 10px 10px 10px 15px;
+  display: flex;
+  color: #666;
+  border: 1px solid #ebebeb;
+  border-radius: 30px;
+}
+
+.feed__input form {
+  width: 100%;
+  display: flex;
+}
+.feed__input form input {
+  margin-left: 10px;
+  flex: 1;
+
+  font-size: 16px;
+  font-weight: 500;
+  border: none;
+  outline: none;
+}
+.feed__input form button {
+  display: none;
+}
+
+/* Input Options: Photo Video etc */
+.feed__inputOptions {
+  display: flex;
+  justify-content: space-evenly;
+}
